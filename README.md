@@ -176,4 +176,4 @@ Role-based access control
 
 ## 📝 License
 
-Licensed under the MIT License
+This project is licensed under the [MIT License](LICENSE).
