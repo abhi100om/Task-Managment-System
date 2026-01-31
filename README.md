@@ -49,33 +49,29 @@ Clean project structure
 Proper HTTP status codes & error handling
 
 ## 🏗️ Tech Stack
-Frontend
+### Frontend
+<ul className="space-y-0 text-sm leading-tight">
+  <li>Next.js (App Router)</li>
+  <li>TypeScript</li>
+  <li>Tailwind CSS</li>
+</ul>
 
-Next.js (App Router)
+### Backend
+<ul className="space-y-0 text-sm leading-tight">
+  <li>Node.js</li>
+  <li>Express.js</li>
+  <li>TypeScript</li>
+  <li>Prisma ORM</li>
+  <li>SQLite (PostgreSQL / MySQL ready)</li>
+</ul>
 
-TypeScript
+### Tools
+<ul className="space-y-0 text-sm leading-tight">
+  <li>Git & GitHub</li>
+  <li>JWT</li>
+  <li>bcrypt</li>
+</ul>
 
-Tailwind CSS
-
-Backend
-
-Node.js
-
-Express.js
-
-TypeScript
-
-Prisma ORM
-
-SQLite (can be switched to PostgreSQL/MySQL)
-
-Tools
-
-Git & GitHub
-
-JWT
-
-bcrypt
 
 ## 📂 Project Structure
 ```
